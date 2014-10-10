@@ -32,7 +32,7 @@
     // Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
     $('#subscribe').ajaxChimp({
       language: 'lj',
-      url: 'http://the-lumberjacks.us8.list-manage1.com/subscribe/post?u=1642d6ac88961ed4fdb6abb3d&id=0b8c709eea'
+      url: 'http://dropcap.us6.list-manage.com/subscribe/post?u=ca976897c1fc6e080446ec53d&id=8318c21704'
     });
 
     // Mailchimp translation
@@ -118,11 +118,7 @@
     });
 
     // backstretch
-    $("header").backstretch([
-        "img/bg-1.jpg"
-      , "img/bg-2.jpg"
-      , "img/bg-3.jpg"
-    ],{duration: 3000, fade: 750});
+    $("header").backstretch("https://cldup.com/mKUdKgzKfO.jpg");
 
     // JQUERY.MB.YTPLAYER
     /*
