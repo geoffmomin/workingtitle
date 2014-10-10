@@ -90,7 +90,7 @@
 	}
 
 	.lj-preloader {
-		background: #fff url('../img/preloader.gif') no-repeat center center;
+		background: #fff url('https://cldup.com/mj0j8mrpdg.GIF') no-repeat center center;
 		bottom: 0;
 		height: 100%;
 		left: 0;
@@ -202,7 +202,7 @@
 	}
 	
 	.lj-overlay-image {
-		background-image: url('../img/dots.png');
+		background-image: url('https://cldup.com/GXbThI5WTZ.png');
 		background-repeat: repeat;
 	}
 	
